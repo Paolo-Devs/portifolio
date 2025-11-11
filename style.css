@@ -807,7 +807,7 @@ margin-top: -25%;
   flex-wrap: wrap;
   width: 450px;
   color: white;
-  height: 60vh;
+  height: 65vh;
   padding: 50px;
   background-color: #ff6228;
   margin-bottom: 70px;
@@ -1064,3 +1064,4 @@ footer {
   color: var(--footertext)
 }
 }
+
